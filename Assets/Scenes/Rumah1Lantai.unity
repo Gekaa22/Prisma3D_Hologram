@@ -38,7 +38,11 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
+<<<<<<< HEAD
   m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+=======
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+>>>>>>> origin/main
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -217,6 +221,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+<<<<<<< HEAD
 --- !u!1 &36061597
 GameObject:
   m_ObjectHideFlags: 0
@@ -2808,6 +2813,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1889670351}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> origin/main
 --- !u!1 &2119060053
 GameObject:
   m_ObjectHideFlags: 0
@@ -2900,6 +2907,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &2129855697
 GameObject:
   m_ObjectHideFlags: 0
@@ -3034,11 +3042,16 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2129855697}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> origin/main
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 2119060056}
   - {fileID: 17199844}
+<<<<<<< HEAD
   - {fileID: 1485333825}
   - {fileID: 309353616}
+=======
+>>>>>>> origin/main

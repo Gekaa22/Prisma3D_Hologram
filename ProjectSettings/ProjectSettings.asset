@@ -155,8 +155,12 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
+<<<<<<< HEAD
   applicationIdentifier:
     Standalone: com.DefaultCompany.Prisma3D-Hologram
+=======
+  applicationIdentifier: {}
+>>>>>>> origin/main
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -674,8 +678,13 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: Prisma3DHologram
   metroPackageVersion: 1.0.0.0
+=======
+  metroPackageName: Prisma3D_Hologram
+  metroPackageVersion: 
+>>>>>>> origin/main
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -683,7 +692,11 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Prisma3D_Hologram
   wsaImages: {}
+<<<<<<< HEAD
   metroTileShortName: Prisma3D_Hologram
+=======
+  metroTileShortName: 
+>>>>>>> origin/main
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -747,7 +760,11 @@ PlayerSettings:
   embeddedLinuxEnableGamepadInput: 1
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
+<<<<<<< HEAD
   apiCompatibilityLevel: 3
+=======
+  apiCompatibilityLevel: 6
+>>>>>>> origin/main
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
   cloudProjectId: 6c88efe0-3a53-4863-9e94-233a1dfb33ff
